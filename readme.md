@@ -4,9 +4,14 @@
 **Docente:** Valderi Leithardt F.0.8
 
 **Horário:** Atendimento alunos presencial 
-- terças das 16h às 17h *(fazer o favor de agendar antecipadamente)*
+- terças das 16h às 17h (fazer o favor de agendar antecipadamente)*
 
 **Moodle**
 - [Geral](https://2324moodle.isel.pt/course/view.php?id=7525)
-- [LEIC33D](https://2324moodle.isel.pt/course/view.php?id=7579) 
+- [LEIC32D](https://2324moodle.isel.pt/course/view.php?id=6890) 
 - [Registo Slack](https://join.slack.com/t/iselleicipwpi-sdr2356/signup) *(apenas para o primeiro acesso)*
+
+**Trabalhos 2 & 3**
+- [IPW_IP 2324 1 A2](https://github.com/isel-leic-ipw/2324i-IPW-LEIC31D/wiki/IPW_IP-2324-1-A2)
+
+- [IPW_IP 2324 1 A3](https://github.com/isel-leic-ipw/2324i-IPW-LEIC31D/wiki/IPW_IP-2324-1-A3)
