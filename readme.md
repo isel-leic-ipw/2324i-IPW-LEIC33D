@@ -4,7 +4,7 @@
 **Docente:** Valderi Leithardt F.0.8
 
 **Horário:** Atendimento alunos presencial 
-- terças das 16h às 17h (fazer o favor de agendar antecipadamente)*
+- terças das 15:40h às 16:40h (fazer o favor de agendar antecipadamente)*
 
 **Horário - Monitores:** Atendimento alunos online 
 - Horário de dúvidas IPW - André Jesus, terças-feiras, das 11h às 12h: https://videoconf-colibri.zoom.us/j/2020260099 *(fazer o favor de agendar antecipadamente)*
